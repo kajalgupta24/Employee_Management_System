@@ -23,10 +23,3 @@ hr_department.add_employee(employee4)
 hr_department.add_employee(employee5)
 
 company.list_departments()
-
-employee5.change_location("Gurgaon")
-
-company.list_departments()
-
-
-
